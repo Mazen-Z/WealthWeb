@@ -2,7 +2,7 @@
 
 Submitted by: **Mazen Zarrouk**
 
-This web app: *WebWealth is a dynamic online forum where finance enthusiasts converge to exchange insights and engage in discussions about all things finance, including stocks, real estate, and cryptocurrencies. This platform stands out by weaving humor and relatability into serious financial discourse, featuring posts that reference popular finance memes and terms. Users can create and manage their own posts, comment on the experiences of others, and participate in community upvoting to highlight the most valuable content. WebWealth is not just a forum; it's a vibrant community where both novice investors and seasoned financiers can learn, laugh, and grow their financial acumen in a welcoming and engaging environment.**
+*WebWealth is a dynamic online forum where finance enthusiasts converge to exchange insights and engage in discussions about all things finance, including stocks, real estate, and cryptocurrencies. This platform stands out by weaving humor and relatability into serious financial discourse, featuring posts that reference popular finance memes and terms. Users can create and manage their own posts, comment on the experiences of others, and participate in community upvoting to highlight the most valuable content. WebWealth is not just a forum; it's a vibrant community where both novice investors and seasoned financiers can learn, laugh, and grow their financial acumen in a welcoming and engaging environment.**
 
 Time spent: **15** hours spent in total
 
