@@ -1,36 +1,71 @@
-# MindfulMeadows
+# Web Development Final Project - *WealthWeb*
 
-## Overview
+Submitted by: **Mazen Zarrouk**
 
-MindfulMeadows is a compassionate and supportive forum application designed for individuals with mental health challenges. It offers a platform for anonymous posting and commenting, enabling users to seek advice and share experiences with others facing similar issues. This application emphasizes privacy and empathy, creating a safe space for open discussions.
+*WebWealth is a dynamic online forum where finance enthusiasts converge to exchange insights and engage in discussions about all things finance, including stocks, real estate, and cryptocurrencies. This platform stands out by weaving humor and relatability into serious financial discourse, featuring posts that reference popular finance memes and terms. Users can create and manage their own posts, comment on the experiences of others, and participate in community upvoting to highlight the most valuable content. WebWealth is not just a forum; it's a vibrant community where both novice investors and seasoned financiers can learn, laugh, and grow their financial acumen in a welcoming and engaging environment.**
 
-## Features
+Time spent: **15** hours spent in total
 
-- **Anonymity**: Users can post and comment without revealing their identity, ensuring a safe and private environment.
-- **CRUD Operations**: Complete Create, Read, Update, and Delete functionality. Users can edit or delete their posts using the correct password set at the time of post creation.
-- **Sorting Options**: Posts can be sorted by the most recent or most popular.
-- **Popularity Metrics**: Posts can gain popularity through an upvote feature, allowing users to express support and relate to posts.
-- **Search Functionality**: Users can search for posts by specific disorders or post IDs, facilitating easy navigation and post tracking.
+## Required Features
 
-## Technology Stack
+The following **required** functionality is completed:
 
-- **ReactJS**: For building the user interface.
-- **JavaScript**: As the primary programming language.
-- **Supabase**: Utilized as the backend database.
-- **Tailwind CSS**: For styling and designing the application.
+- [x] **A create form that allows the user to create posts**
+- [x] **Posts have a title and optionally additional textual content and/or an image added as an external image URL**
+- [x] **A home feed displaying previously created posts**
+- [x] **By default, the time created, title, and number of upvotes for each post is shown on the feed**
+- [x] **Clicking on a post shall direct the user to a new page for the selected post**
+- [x] **Users can sort posts by either their created time or upvotes count**
+- [x] **Users can search for posts by title**
+- [x] **A separate post page for each created post, where any additional information is shown is linked whenever a user clicks a post**
+- [x] **Users can leave comments underneath a post on the post's separate page**
+- [x] **Each post should have an upvote button on the post's page. Each click increases its upvotes count by one and users can upvote any number of times**
+- [x] **A previously created post can be edited or deleted from its post page**
 
-## Getting Started
+The following **optional** features are implemented:
 
-To get a local copy up and running, follow these simple steps.
+- [x] Users can only edit and deleted posts or delete comments by entering the secret key, which is set by the user during post creation
+- [ ] Upon launching the web app, the user is assigned a random user ID. It will be associated with all posts and comments that they make and displayed on them.
+- [ ] Users can repost a previous post by referencing its post ID. On the post page of the new post, the referenced post is displayed and linked, creating a thread
+- [ ] Users can customize the interface of the web app
+- [ ] Users can share and view web videos
+- [ ] Users can set flags while creating a post. Then users can filter posts by flags on the home feed.
+- [ ] Users can upload images directly from their local machine as an image file
+- [ ] Display a loading animation whenever data is being fetched
 
-### Prerequisites
+The following **additional** features are implemented:
 
-- Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+* [x] Created a Resourse Page as well
 
-### Installation
+## Video Walkthrough
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/MindfulMeadows.git
-   ```
-# WealthWeb
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/Mazen-Z/WealthWeb/blob/main/project8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with LiceCAP
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [yyyy] [name of copyright owner]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
