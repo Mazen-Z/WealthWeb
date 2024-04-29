@@ -4,15 +4,16 @@ const Home = () => {
       <div className="bg-gray-100 min-h-screen flex flex-col items-center justify-center">
         <div className="max-w-2xl text-center">
           <h1 className="text-4xl font-semibold text-gray-800 mt-2 mb-6">
-            WebWealth: Stocks, Real Estate, Crypto, and Anything Finance.
+            Welcome to WebWealth. 
+            <br></br>
+            Your Gateway to Informed Investing.
           </h1>
           <p className="text-lg text-gray-600 mb-8">
-            Are you a degen looking for your next big play or are you
-            a bear waiting out this crazy market? 
-            Maybe you&apos;re a bullish believer set on making generational wealth 
-            one trade at a time. Whether you&apos;re hodling crypto, a 
-            billionaire that needs more property in Manhattan, or 
-            someone who loves gambling on SPY trades, at Web Wealth, you&apos;ve found your tribe!
+          Are you an investor looking for strategies or insights, 
+          or perhaps you're cautiously navigating the volatile market? 
+          Whether you're committed to long-term wealth or looking 
+          for tactical opportunities in stocks, real estate, or crypto, 
+          WebWealth is your essential resource.
           </p>
 
           <img
@@ -21,18 +22,22 @@ const Home = () => {
             className="w-full custom-height object-cover rounded-lg mb-8"
           />
           <h2 className="text-3xl font-semibold text-gray-800 mt-2 mb-6">
-            Why Join Web Wealth?
+            Why Join WebWealth?
           </h2>
           <p className="text-lg text-gray-600 mb-8">
-          Because where else can you discuss the intricacies of Fibonacci retracements 
-          and talk about stonk memes at the same time? At Web Wealth, we believe in 
-          the power of financial information, whatever that means. Remember, in Web Wealth, 
-          every post is a potential treasure trove, and could lead to your next 
-          brilliant investment (or epic fail... buy hey, we’re all friends here).
+          Why settle for surface-level discussions when you can dive deep into the 
+          complexities of market analysis and investment strategies with like-minded 
+          enthusiasts? At WebWealth, we're more than just a forum. We're a community 
+          committed to empowering each member with insights and data-driven analysis.
           </p>
           <p className="text-lg text-gray-600 mb-4">
-          Join today to connect with fellow finance aficionados who don’t just 
-          follow the markets—they meme them.
+          At WebWealth, every conversation could unveil critical information that might catalyze 
+          your next investment decision. Our platform is built on the belief that 
+          knowledge is power, and informed decisions are the most profitable ones.
+          </p>
+          <p className="text-lg text-gray-600 mb-4">
+          Join today to engage with a network of finance enthusiasts who don’t just 
+          passively observe the markets.
           </p>
         </div>
       </div>

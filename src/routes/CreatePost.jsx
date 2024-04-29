@@ -152,12 +152,9 @@ const CreatePost = () => {
           </div>
           <div class="flex items-center mb-4">
             <input id="financial-advisor-checkbox" type="checkbox" value="" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-            <label for="financial-advisor-checkbox" class="ml-2 text-sm font-medium text-black dark:text-black">I solemnly swear that I am not a financial advisor giving financial advice.</label>
+            <label for="financial-advisor-checkbox" class="ml-2 text-sm font-medium text-black dark:text-black">I am not a financial advisor giving financial advice.</label>
           </div>
-          <div class="flex items-center mb-4">
-              <input id="sec-checkbox" type="checkbox" value="" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"/>
-              <label for="sec-checkbox" class="ml-2 text-sm font-medium text-black dark:text-black">I solemnly swear that I am not a member of the SEC or WallStreetBets.</label>
-          </div>
+          
 
           <div className="flex items-center justify-between">
             <button

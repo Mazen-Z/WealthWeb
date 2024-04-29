@@ -4,7 +4,7 @@ const Resources = () => {
       <div className="container mx-auto">
         <div className="bg-white rounded-lg shadow overflow-hidden">
           <img
-            src="https://i.pinimg.com/originals/49/d8/5a/49d85aa5961ff4dbe2962141f05294eb.gif"
+            src="res.jpg"
             alt="Stonks"
             className="w-full object-cover h-64 sm:h-96"
           />
@@ -70,9 +70,9 @@ const Resources = () => {
               </li>
               <li>
                 <span className="font-semibold">
-                  Gambling Problem?
+                  Invest Wisely.
                 </span>{" "}
-                Call 1-800-GAMBLER (1-800-426-2537)
+                
               </li>
             
             </ul>
